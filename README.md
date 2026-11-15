@@ -8,9 +8,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mol2er&style=for-the-badge&color=ffe066&labelColor=333333&label=curious%20cuties" alt="views">
 </p>
+
 <p align="center">
   <a href="https://mol2er.atabook.org/">
     <img src="https://img.shields.io/badge/-atabook-006D62?style=for-the-badge&labelColor=006D62&logoColor=white" alt="atabook">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://guns.lol/mol2er" target="_blank">
+    <img src="https://img.shields.io/badge/-gunslol-006D62?style=for-the-badge&labelColor=006D62&logoColor=white" alt="gunslol">
   </a>
 </p>
 

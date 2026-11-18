@@ -10,12 +10,18 @@
 </p>
 
 <p align="center">
-  <a href="https://mol2er.atabook.org/">
+  <a href="https://mol2er.atabook.org/" target="_blank">
     <img src="https://img.shields.io/badge/-atabook-006D62?style=for-the-badge&labelColor=006D62&logoColor=white" alt="atabook">
   </a>
-  &nbsp;&nbsp;&nbsp;
+     
   <a href="https://guns.lol/mol2er" target="_blank">
     <img src="https://img.shields.io/badge/-gunslol-006D62?style=for-the-badge&labelColor=006D62&logoColor=white" alt="gunslol">
+  </a>
+</p>
+
+<p align="center" style="margin-top: 30px;">
+  <a href="https://t.me/infow3o" target="_blank">
+    <img src="https://img.shields.io/badge/🦚%20info-006D62?style=for-the-badge&labelColor=006D62&logoColor=white" alt="info">
   </a>
 </p>
 
